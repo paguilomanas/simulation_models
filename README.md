@@ -1,4 +1,4 @@
-# Discrete Events Simulation Model
+# Discrete Events Simulation
 
 This code is a simulation of discrete events (SSD) of a close system formed by 10 working machines.
 Machines may fail following a normal distribution.
