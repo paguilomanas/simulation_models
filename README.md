@@ -11,15 +11,15 @@ Total simulation time is 1000 h.
     
 The problem modelized consists of 2 nodes:
 
-	- Functional system - 10 machines working and 4 extra machines
-	- Repair service - 3 workers 
+- Functional system - 10 machines working and 4 extra machines
+- Repair service - 3 workers 
 
 Posible events that may change the system's state are: 
 
-	- Machine failure
-	- Machine reparation
+- Machine failure
+- Machine reparation
 
 We are interested in measuring: 
 
-	- Quantity of time workers have been working simultaneously
-	- Proportion of time the system has been fully working
+- Quantity of time workers have been working simultaneously
+- Proportion of time the system has been fully working
